@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MptRoom - Service for automatization Studing processes<br>👯 I’m looking for a work in Europe (relocte) / CIS (Remote)<br>🌱 I’m currently learning .NET / Angular
+🔭 I’m currently working in HFM Startup. Role - Desktop developer<br>👯 I’m looking for a work in Europe (relocte) / CIS (Remote)<br>🌱 I’m currently learning .NET
 
 
 ## 🌐 Socials:
