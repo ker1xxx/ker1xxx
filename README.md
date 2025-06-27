@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in HFM Startup. Role - Desktop developer<br>👯 I’m looking for a work in Europe (relocte) / CIS (Remote)<br>🌱 I’m currently learning .NET
+🔭 I’m currently working in HFM Startup. Role - Desktop developer<br>👯 I’m looking for a work in Europe (relocte) / CIS (Remote)<br>🌱 I’m currently learning Avalonia, Low-level data transfer protocols
 
 
 ## 🌐 Socials:
