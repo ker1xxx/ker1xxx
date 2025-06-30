@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently searching for work . Role - Desktop developer<br>👯 I’m looking for a work in Europe (relocte) / CIS (Remote)<br>🌱 I’m currently learning .NET, Avalonia, Low-level data transfer protocols
+🔭 I’m currently searching for work<br>👯 I’m looking for a work in Europe (relocte) / CIS (Remote)<br>🌱 I’m currently learning .NET, Avalonia, Low-level data transfer protocols
 
 
 ## 🌐 Socials:
