@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently searching for work SBK<br>👯 I’m looking for a work in Europe (relocte) / CIS (Remote)<br>🌱 I’m currently learning DocsVision
+🔭 I’m currently wokring at AO"SBK"<br>👯 I’m looking for a work in Europe (relocte) / CIS (Remote)<br>🌱 I’m currently learning DocsVision
 
 
 ## 🌐 Socials:
